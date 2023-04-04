@@ -1,1 +1,1 @@
-# projeto_interdiciplina
+# projeto_tecnicas
